@@ -1,0 +1,6 @@
+.common{
+    display: flex;
+}
+.child{
+    margin-right: 20px;
+}
